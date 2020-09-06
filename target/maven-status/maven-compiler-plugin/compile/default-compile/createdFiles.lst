@@ -1,0 +1,10 @@
+couture/DropwizardMySQLHealthCheckResource.class
+couture/BrandMapper.class
+couture/DropApiConfiguration.class
+couture/BrandService.class
+couture/Brand.class
+couture/BrandDao.class
+couture/DropApiApplication.class
+couture/BrandRepository.class
+couture/BrandResource.class
+couture/ApplicationHealthCheck.class

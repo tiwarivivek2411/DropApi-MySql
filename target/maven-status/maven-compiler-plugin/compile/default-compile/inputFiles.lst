@@ -1,0 +1,10 @@
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/BrandMapper.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/BrandDao.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/DropApiConfiguration.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/BrandResource.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/DropApiApplication.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/BrandRepository.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/ApplicationHealthCheck.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/Brand.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/BrandService.java
+/home/nil/couture/dropapisql/dropApi/src/main/java/couture/DropwizardMySQLHealthCheckResource.java
